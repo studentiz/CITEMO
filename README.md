@@ -1,6 +1,21 @@
 # CITEMO
 A lightweight single-cell multimodal omics analysis framework
-
+## Requirement
+* Python >= 3.8.0
+* jupyterlab >= 3.0.9
+* numpy == 1.19.5
+* ray == 1.1.0
+* matplotlib == 3.3.4
+* seaborn == 0.11.1
+* scipy == 1.6.1
+* scikit-learn == 0.24.1
+* statsmodels == 0.12.2
+* pandas == 1.2.3
+* pillow == 8.1.2
+* jedi == 0.18.0
+* umap-learn == 0.5.1
+* phenograph == 1.5.7
+* bokeh == 2.3.0
 ## Dataset
 * CBMC
 <https://satijalab.org/seurat/archive/v3.2/multimodal_vignette.html>
