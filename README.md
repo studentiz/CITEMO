@@ -1,8 +1,8 @@
 # CITEMO (A lightweight single-cell multimodal omics analysis framework)
 * We propose a lightweight framework, called CITEMO, to analyze single-cell multimodal omics data. 
-* This project is a practice of CITEMO, which can inspire other single-cell multi-multi-omics sequencing data analysis. CITEMO.ipynb shows an example of using CITEMO to analyze CBMC multimodal omics samples. All data involved in this project are stored in the Data folder. 
+* This project is a practice of CITEMO, which can inspire other single-cell multi-multi-omics sequencing data analysis. CITEMO_CBMC.ipynb shows an example of using CITEMO to analyze CBMC multimodal omics samples. All data involved in this project are stored in the Data folder. 
 * It is strongly recommended to install the specified version of the python package as shown in Requirement. 
-* It is worth noting that running CITEMO.ipynb in different environments may get different results. You should combine biological experience and try to constantly adjust the model parameters to obtain the best results.
+* It is worth noting that running CITEMO_CBMC.ipynb in different environments may get different results. You should combine biological experience and try to constantly adjust the model parameters to obtain the best results.
 ## Requirement
 * Python >= 3.8.0
 * jupyterlab >= 3.0.9
